@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media.licdn.com/dms/image/D4E16AQEHWK1n0XUfpA/profile-displaybackgroundimage-shrink_350_1400/0/1670871068120?e=1723680000&v=beta&t=vvj_YOB9xn836EHxFTeT3KlO0Ss3X-7E60A3UbkYMDc" alt="cover" />
+<img width="100%" height = "250px" src="" alt="cover" />
 </div>
 
 # *Saludos, soy [Betsy Ninoska](https://www.linkedin.com/in/betsy-ninoska-palencia/)*
@@ -18,7 +18,7 @@ con el compromiso, la responsabilidad y temor de Dios .
   
 </p>
 
-📄 &nbsp;Aquí mi resumen curricular [Resumen]([https://](https://betsyninoska.github.io/)) 
+📄 &nbsp;  [Aquí mi resumen curricular y portafolío](betsyninoska.github.io)
 
 </p>
 </div>
