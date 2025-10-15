@@ -18,7 +18,7 @@ con el compromiso, la responsabilidad y temor de Dios .
   
 </p>
 
-📄 &nbsp;  [Aquí mi resumen curricular y portafolío](https://betsyninoska.github.io/)
+📄 &nbsp;  [Aquí mi resumen curricular y portfolío](https://betsyninoska.github.io/)
 
 </p>
 </div>
